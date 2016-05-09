@@ -6,3 +6,4 @@ Created on 2016Äê5ÔÂ9ÈÕ
 
 if __name__ == '__main__':
     pass
+    print('test')
