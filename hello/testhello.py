@@ -8,3 +8,5 @@ if __name__ == '__main__':
     pass
     print('test')
     print('hello')
+    print('ssssss')
+    print('000000')
